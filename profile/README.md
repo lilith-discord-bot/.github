@@ -2,7 +2,7 @@
 
 We are developers in the Diablo 4 community. We have no affiliation or association with Blizzard Entertainment at time of writing, but we wouldn't mind deeper convos of them.
 
-We try to build tings around the Diablo 4 univese and we try to provide useful tool like the actual Lilith Discord bot.
+We try to build tings around the Diablo 4 universe and we try to provide useful tool like the actual Lilith Discord bot.
 
 ### Contact Us
 
