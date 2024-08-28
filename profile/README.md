@@ -8,7 +8,7 @@ We try to build tings around the Diablo 4 universe and we try to provide useful 
 
 We have a public [Discord](https://discord.gg/Mv2yCrJK87) server.
 
-There's a ko-fi running at https://ko-fi.com/lilithdiscordbot for people that want to contribute, we'll mainly use theses donations to keep hosting the bot and keep our infrastructure running.
+There's a ko-fi running at https://ko-fi.com/glazk0 for people that want to contribute, we'll mainly use theses donations to keep hosting the bot and keep our infrastructure running.
 
 ### Joining?
 
